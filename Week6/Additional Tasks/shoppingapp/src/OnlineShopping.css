@@ -1,0 +1,28 @@
+/* src/OnlineShopping.css */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: green;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 300px;
+  font-family: Arial;
+  color: teal;
+}
+
+th, td {
+  border: 1px solid gray;
+  padding: 8px 12px;
+}
+
+th {
+  background-color: #e0f0e0;
+  color: darkgreen;
+}
