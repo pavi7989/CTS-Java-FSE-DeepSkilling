@@ -1,0 +1,39 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;           /* Center horizontally */
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;       /* Center all text */
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+.office-image {
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+
+.office-card {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
